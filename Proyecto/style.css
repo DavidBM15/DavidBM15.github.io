@@ -1,0 +1,426 @@
+header {
+    background-color: #B282D3;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.sopapo {
+    color: #CCD382;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #D382A3;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.mujajaja {
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+}
+
+.ramirez {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    height: 125px;
+}
+
+.ramirez_papu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 125px;
+    width: 1300px;
+    text-align: right;
+    align-items: center;
+}
+
+nav {
+    background-color: #CCD382;
+    font-size: 25px;
+    text-align: right;
+    list-style: none;
+}
+
+.Papu_pro {
+    text-align: center;
+    font-size: 150%;
+    font-family: cursive;
+}
+
+.chubaca {
+    background-color: #CCD382;
+    align-items: center;
+    align-content: center;
+    text-align: justify;
+    padding: 3em;
+}
+
+.Juan_son {
+    background-color: #B282D3;
+    align-items: center;
+    align-content: center;
+    text-align: justify;
+    padding: 3em;
+}
+
+.Juan_son2 {
+    background-color: #B282D3;
+    text-align: justify;
+    padding: 3em;
+}
+
+.jijija {
+    text-align: center;
+    font-size: 60px;
+    color: #B282D3;
+}
+
+.aña {
+    text-align: center;
+    font-size: 60px;
+    color: #CCD382;
+}
+
+table, tr, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    background-color: #B282D3;
+    color: white;
+}
+
+.xd {
+    font-size: 40px;
+    color: #d382cb;
+}
+
+.waza {
+    font-size: 40px;
+    color: #CCD382;
+}
+
+.papure {
+    width: 70px;
+} 
+
+.chubaca2 {
+    background-color: #CCD382;
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    padding: 1em;
+}
+
+.ramirez_papu2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 125px;
+    width: 1300px;
+    text-align: right;
+    align-items: center;
+    font-size: 60px;
+    padding-top: 70px;
+}
+
+.ramirez2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    padding: 2%;
+}
+
+.menusito {
+    color: #D382A3;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.wawa {
+    background-image: linear-gradient(
+        rgba(0,0,0,0.7),
+        rgba(0,0,0,0.7)),
+        url(img/pepe.jfif);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 410px;
+        text-align: center;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+}
+
+.papu_nuv {
+    display: inline-block;
+    margin: 25px 0px;
+    background-color: #CCD382;
+    color: #D382A3;
+    padding: 25px 35px;
+    text-decoration: none;
+    font-size: 50px;
+    border-radius: 25%;
+}
+
+.papu_nuv:hover {
+    background-color: #4e5221;
+}
+
+.lickitung {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.lickitung:hover {
+    transform: scale(1.1);
+}
+
+.gastly {
+    color: black;
+    text-decoration: none;
+}
+
+.gastly:hover {
+    color: #B282D3;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+.golbat {
+    list-style: square;
+}
+
+.pichu {
+    width: 300%;
+    height: 300%;
+}
+
+.mr_graso {
+    align-items: center;
+    align-content: center;
+}
+
+.hypno {
+    margin-left: auto;
+    list-style: none;
+}
+
+.luxray {
+    background-color: #CCD382;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.froakie {
+    width: 400px;
+    background-color: #CCD382;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.gigalith {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.hoothoot {
+    width: 100%;
+    background-color: #CCD382;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #B282D3;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+.gligar {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.jolteon {
+    color: black;
+    text-decoration: none;
+} 
+
+.jolteon:hover {
+    text-decoration: underline;
+}
+
+.wacha {
+    width: 100%;
+    background-color: #B282D3;
+    border: none;
+    padding: 12px;
+    margin: 16px 0;
+    font-size: 16px;
+}
+
+.eevee {
+    display: inline-block;
+    margin: 25px 0px;
+    background-color: #D382A3;
+    color: #CCD382;
+    padding: 25px 35px;
+    text-decoration: none;
+    font-size: 50px;
+    border-radius: 25%;
+}
+
+.eevee:hover {
+    background-color: #5a293d;
+}
+
+.palkia {
+    color: #000;
+}
+
+.palkia::before {
+    content: '';
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-image: url(img/papure.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-right: 5px;
+}
+
+.kabuto {
+    margin-top: 15px;
+    display: flex;
+}
+
+.groudon {
+    padding-left: 25px;
+}
+
+.meowth {
+    content: '';
+    display: inline-block;
+    width: 315px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-right: 5px;
+}
+
+.tyranitar {
+    content: '';
+    display: inline-block;
+    width: 800px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-right: 5px;
+}
+
+.pro {
+    background-color: #B282D3;
+}
+
+.nuv {
+    background-color: #D382A3;
+}
+
+table {
+    width: 60%;
+    height: 50%;
+    font-size: 38px;
+}
+table, tr, td {
+    border:5px solid #CCD382;
+    border-collapse: collapse;                
+}
+tr, td {
+    text-align: center;
+    padding: 15px;
+    background-color: #B282D3;
+}
+
+.radiohead {
+    width: 200px;
+    height: 250px;
+}
+
+.interpol {
+    width: 150px;
+    height: 250px;
+}
+
+.losbunkers {
+    width: 250px;
+    height: 250px;
+}
+
+.megadeth {
+    width: 350px;
+    height: 250px;
+}
+
+.gusanaciega {
+    padding: 0px 50px 30px 0;
+}
+
+.bunbury {
+    text-decoration: none;
+}
+
+.cerati {
+    width: 100%;
+}
+
+.porter {
+    display: flex;
+}
+
+.enjambre {
+    flex: 25%;
+    padding: 5px;
+}
+
+.enjambre img{
+    margin-top: 5px;
+}
+
+.radiohead2 {
+    width: 200px;
+    height: 200px;
+    padding: 25px;
+    margin-left: 55px;
+}
+
+.chubaca3 {
+    background-color: #CCD382;
+    padding: 3em;
+}
+
+footer {
+    background-color: #000;
+    color: white;
+    padding: 1em;
+    font-size: 30px;
+}
